@@ -1,4 +1,6 @@
 sun is hot
+has 5 moons
+made of cheese
 and yellow
  
 
