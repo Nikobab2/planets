@@ -3,5 +3,7 @@ Mars is a beautiful planet
 Mars is red
 
 Mars is close to earth
+
+but further to sun 
   
 
