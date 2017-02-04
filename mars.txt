@@ -1,2 +1,4 @@
-Mars is a beautiful planet 
+Mars is a beautiful planet
+
+Mars is red  
 
